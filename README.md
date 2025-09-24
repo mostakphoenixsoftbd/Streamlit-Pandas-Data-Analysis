@@ -1,4 +1,4 @@
-# How to Build a Pandas Data Analysis Dashboard with Streamlit | Master Data Visualization: Python Pandas & Streamlit Dashboard
+# How to Build Streamlit Data Analysis Dashboard with  | Master Data Visualization: Python Pandas & Streamlit Dashboard
 
 # Project Overview
 
